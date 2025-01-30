@@ -1,4 +1,4 @@
-Here's a README file with Markdown format that you can paste into your `README.md` to help users run your project locally:
+Here’s the updated README with the link to your GitHub repository:
 
 ```markdown
 # Medicinal Leaf Prediction
@@ -32,8 +32,8 @@ pip install tensorflow streamlit pandas numpy pillow
    Clone this repository to your local machine:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/bkrishnaai/Medicinal-Leaf-Prediction
+   cd Medicinal-Leaf-Prediction
    ```
 
 2. **Download the Model and Dataset:**
@@ -80,6 +80,4 @@ Your feedback helps improve the predictions! If you find any errors, you can cor
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Make sure to replace `<repository_url>` and `<repository_directory>` with the actual URL of your GitHub repository and the folder name, respectively.
-
-This README provides an overview of the project, the setup steps, and how to use the app locally.
+This includes the correct link to your GitHub repository and provides the steps for running the project locally.
